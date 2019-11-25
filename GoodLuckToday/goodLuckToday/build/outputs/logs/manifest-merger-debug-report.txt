@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer-dash\r2.4.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer-core\r2.4.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:11:5-66
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:14:5-107:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:16:9-42
+	android:theme
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:18:9-40
+activity#com.simul.goodlucktoday.menu
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:22:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:20:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:26:27-74
+activity#com.simul.goodlucktoday.jeux1
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:30:9-34:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:33:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:31:13-34
+activity#com.simul.goodlucktoday.jeux2
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:36:10-40:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:39:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:37:13-34
+activity#com.simul.goodlucktoday.jeux3
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:42:11-46:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:45:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:43:13-34
+activity#com.simul.goodlucktoday.jeux4
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:48:12-52:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:51:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:49:13-34
+activity#com.simul.goodlucktoday.jeux5
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:54:13-58:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:57:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:55:13-34
+activity#com.simul.goodlucktoday.classement
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:60:15-64:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:63:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:61:13-39
+activity#com.simul.goodlucktoday.classement2
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:67:16-71:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:70:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:69:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:68:13-40
+activity#com.simul.goodlucktoday.param
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:73:16-77:26
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:76:14-50
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:74:13-34
+activity#com.simul.goodlucktoday.menu2
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:80:13-34
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:85:16-89:44
+	android:label
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:89:9-41
+	android:configChanges
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:86:9-105
+	android:theme
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:88:9-68
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:85:26-70
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:90:5-99
+	android:value
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:90:62-97
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:90:16-61
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:93:5-99:17
+action#android.intent.action.VIEW
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:94:5-57
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:94:13-54
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:95:5-64
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:95:15-61
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:96:5-66
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:96:15-63
+data
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:98:5-54
+	android:scheme
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:98:11-51
+activity#com.purplebrain.adbuddiz.sdk.AdBuddizActivity
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:101:6-102:67
+	android:theme
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:102:16-64
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:101:16-76
+activity#com.facebook.ads.InterstitialAdActivity
+ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:104:9-105:77
+	android:configChanges
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:105:13-74
+	android:name
+		ADDED from C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\src\main\AndroidManifest.xml:104:19-73
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:4.99.3] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\audience-network-sdk\4.99.3\AndroidManifest.xml:16:13-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\AndroidManifest.xml:26:13-58

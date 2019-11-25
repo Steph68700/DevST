@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.goodlucktoday"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="21" />
+   
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/goodicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".menu"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".jeux1"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+         <activity
+            android:name=".jeux2"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+          <activity
+            android:name=".jeux3"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+           <activity
+            android:name=".jeux4"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+            <activity
+            android:name=".jeux5"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+             <activity
+            android:name=".jeux6"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+              <activity
+            android:name=".classement"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+               <activity
+            android:name=".classement1"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+               <activity
+            android:name=".classement2"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+               <activity
+            android:name=".param"
+            android:label="@string/app_name"
+             android:screenOrientation="portrait" >
+              </activity>
+              
+               <activity android:name="com.facebook.FacebookActivity"
+        android:configChanges=
+            "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+        android:theme="@android:style/Theme.Translucent.NoTitleBar"
+        android:label="@string/app_name" />
+    <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/id_facebook"/>
+    
+    
+    <intent-filter>
+    <action android:name="android.intent.action.VIEW" />
+    <category android:name="android.intent.category.DEFAULT" />
+    <category android:name="android.intent.category.BROWSABLE" />
+    <!-- Accepts URIs "com.example.goodlucktoday://" -->
+    <data android:scheme="com.example.goodlucktoday" />
+</intent-filter>
+
+     <activity android:name="com.purplebrain.adbuddiz.sdk.AdBuddizActivity" 
+               android:theme="@android:style/Theme.Translucent" />
+               
+    </application>
+
+</manifest>

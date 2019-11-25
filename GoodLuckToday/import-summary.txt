@@ -1,0 +1,658 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From GoodLuckToday:
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* build.gradle
+* facebook\
+* facebook\build.gradle
+* facebook\src\
+* facebook\src\main\
+* facebook\src\main\AndroidManifest.xml
+* facebook\src\main\java\
+* facebook\src\main\java\com\
+* facebook\src\main\java\com\facebook\
+* facebook\src\main\java\com\facebook\AccessToken.java
+* facebook\src\main\java\com\facebook\AccessTokenCache.java
+* facebook\src\main\java\com\facebook\AccessTokenManager.java
+* facebook\src\main\java\com\facebook\AccessTokenSource.java
+* facebook\src\main\java\com\facebook\AccessTokenTracker.java
+* facebook\src\main\java\com\facebook\CallbackManager.java
+* facebook\src\main\java\com\facebook\FacebookActivity.java
+* facebook\src\main\java\com\facebook\FacebookAuthorizationException.java
+* facebook\src\main\java\com\facebook\FacebookBroadcastReceiver.java
+* facebook\src\main\java\com\facebook\FacebookButtonBase.java
+* facebook\src\main\java\com\facebook\FacebookCallback.java
+* facebook\src\main\java\com\facebook\FacebookContentProvider.java
+* facebook\src\main\java\com\facebook\FacebookDialog.java
+* facebook\src\main\java\com\facebook\FacebookDialogException.java
+* facebook\src\main\java\com\facebook\FacebookException.java
+* facebook\src\main\java\com\facebook\FacebookGraphResponseException.java
+* facebook\src\main\java\com\facebook\FacebookOperationCanceledException.java
+* facebook\src\main\java\com\facebook\FacebookRequestError.java
+* facebook\src\main\java\com\facebook\FacebookSdk.java
+* facebook\src\main\java\com\facebook\FacebookSdkNotInitializedException.java
+* facebook\src\main\java\com\facebook\FacebookSdkVersion.java
+* facebook\src\main\java\com\facebook\FacebookServiceException.java
+* facebook\src\main\java\com\facebook\GraphRequest.java
+* facebook\src\main\java\com\facebook\GraphRequestAsyncTask.java
+* facebook\src\main\java\com\facebook\GraphRequestBatch.java
+* facebook\src\main\java\com\facebook\GraphResponse.java
+* facebook\src\main\java\com\facebook\HttpMethod.java
+* facebook\src\main\java\com\facebook\LegacyTokenHelper.java
+* facebook\src\main\java\com\facebook\LoggingBehavior.java
+* facebook\src\main\java\com\facebook\Profile.java
+* facebook\src\main\java\com\facebook\ProfileCache.java
+* facebook\src\main\java\com\facebook\ProfileManager.java
+* facebook\src\main\java\com\facebook\ProfileTracker.java
+* facebook\src\main\java\com\facebook\ProgressNoopOutputStream.java
+* facebook\src\main\java\com\facebook\ProgressOutputStream.java
+* facebook\src\main\java\com\facebook\RequestOutputStream.java
+* facebook\src\main\java\com\facebook\RequestProgress.java
+* facebook\src\main\java\com\facebook\TestUserManager.java
+* facebook\src\main\java\com\facebook\appevents\
+* facebook\src\main\java\com\facebook\appevents\AppEventsConstants.java
+* facebook\src\main\java\com\facebook\appevents\AppEventsLogger.java
+* facebook\src\main\java\com\facebook\appevents\FacebookTimeSpentData.java
+* facebook\src\main\java\com\facebook\applinks\
+* facebook\src\main\java\com\facebook\applinks\AppLinkData.java
+* facebook\src\main\java\com\facebook\applinks\FacebookAppLinkResolver.java
+* facebook\src\main\java\com\facebook\internal\
+* facebook\src\main\java\com\facebook\internal\AnalyticsEvents.java
+* facebook\src\main\java\com\facebook\internal\AppCall.java
+* facebook\src\main\java\com\facebook\internal\AppEventsLoggerUtility.java
+* facebook\src\main\java\com\facebook\internal\AttributionIdentifiers.java
+* facebook\src\main\java\com\facebook\internal\BoltsMeasurementEventListener.java
+* facebook\src\main\java\com\facebook\internal\BundleJSONConverter.java
+* facebook\src\main\java\com\facebook\internal\CallbackManagerImpl.java
+* facebook\src\main\java\com\facebook\internal\CollectionMapper.java
+* facebook\src\main\java\com\facebook\internal\DialogFeature.java
+* facebook\src\main\java\com\facebook\internal\DialogPresenter.java
+* facebook\src\main\java\com\facebook\internal\FacebookDialogBase.java
+* facebook\src\main\java\com\facebook\internal\FacebookDialogFragment.java
+* facebook\src\main\java\com\facebook\internal\FacebookRequestErrorClassification.java
+* facebook\src\main\java\com\facebook\internal\FacebookWebFallbackDialog.java
+* facebook\src\main\java\com\facebook\internal\FileLruCache.java
+* facebook\src\main\java\com\facebook\internal\GraphUtil.java
+* facebook\src\main\java\com\facebook\internal\ImageDownloader.java
+* facebook\src\main\java\com\facebook\internal\ImageRequest.java
+* facebook\src\main\java\com\facebook\internal\ImageResponse.java
+* facebook\src\main\java\com\facebook\internal\ImageResponseCache.java
+* facebook\src\main\java\com\facebook\internal\JsonUtil.java
+* facebook\src\main\java\com\facebook\internal\Logger.java
+* facebook\src\main\java\com\facebook\internal\LoginAuthorizationType.java
+* facebook\src\main\java\com\facebook\internal\Mutable.java
+* facebook\src\main\java\com\facebook\internal\NativeAppCallAttachmentStore.java
+* facebook\src\main\java\com\facebook\internal\NativeProtocol.java
+* facebook\src\main\java\com\facebook\internal\PermissionType.java
+* facebook\src\main\java\com\facebook\internal\PlatformServiceClient.java
+* facebook\src\main\java\com\facebook\internal\ProfileInformationCache.java
+* facebook\src\main\java\com\facebook\internal\ServerProtocol.java
+* facebook\src\main\java\com\facebook\internal\UrlRedirectCache.java
+* facebook\src\main\java\com\facebook\internal\Utility.java
+* facebook\src\main\java\com\facebook\internal\Validate.java
+* facebook\src\main\java\com\facebook\internal\WebDialog.java
+* facebook\src\main\java\com\facebook\internal\WorkQueue.java
+* facebook\src\main\java\com\facebook\internal\package-info.java
+* facebook\src\main\java\com\facebook\login\
+* facebook\src\main\java\com\facebook\login\DefaultAudience.java
+* facebook\src\main\java\com\facebook\login\GetTokenClient.java
+* facebook\src\main\java\com\facebook\login\GetTokenLoginMethodHandler.java
+* facebook\src\main\java\com\facebook\login\KatanaProxyLoginMethodHandler.java
+* facebook\src\main\java\com\facebook\login\LoginBehavior.java
+* facebook\src\main\java\com\facebook\login\LoginClient.java
+* facebook\src\main\java\com\facebook\login\LoginFragment.java
+* facebook\src\main\java\com\facebook\login\LoginLogger.java
+* facebook\src\main\java\com\facebook\login\LoginManager.java
+* facebook\src\main\java\com\facebook\login\LoginMethodHandler.java
+* facebook\src\main\java\com\facebook\login\LoginResult.java
+* facebook\src\main\java\com\facebook\login\StartActivityDelegate.java
+* facebook\src\main\java\com\facebook\login\WebViewLoginMethodHandler.java
+* facebook\src\main\java\com\facebook\login\widget\
+* facebook\src\main\java\com\facebook\login\widget\LoginButton.java
+* facebook\src\main\java\com\facebook\login\widget\ProfilePictureView.java
+* facebook\src\main\java\com\facebook\login\widget\ToolTipPopup.java
+* facebook\src\main\java\com\facebook\messenger\
+* facebook\src\main\java\com\facebook\messenger\MessengerThreadParams.java
+* facebook\src\main\java\com\facebook\messenger\MessengerUtils.java
+* facebook\src\main\java\com\facebook\messenger\ShareToMessengerParams.java
+* facebook\src\main\java\com\facebook\messenger\ShareToMessengerParamsBuilder.java
+* facebook\src\main\java\com\facebook\share\
+* facebook\src\main\java\com\facebook\share\ShareApi.java
+* facebook\src\main\java\com\facebook\share\ShareBuilder.java
+* facebook\src\main\java\com\facebook\share\Sharer.java
+* facebook\src\main\java\com\facebook\share\internal\
+* facebook\src\main\java\com\facebook\share\internal\AppInviteDialogFeature.java
+* facebook\src\main\java\com\facebook\share\internal\GameRequestValidation.java
+* facebook\src\main\java\com\facebook\share\internal\LegacyNativeDialogParameters.java
+* facebook\src\main\java\com\facebook\share\internal\LikeActionController.java
+* facebook\src\main\java\com\facebook\share\internal\LikeBoxCountView.java
+* facebook\src\main\java\com\facebook\share\internal\LikeButton.java
+* facebook\src\main\java\com\facebook\share\internal\LikeContent.java
+* facebook\src\main\java\com\facebook\share\internal\LikeDialog.java
+* facebook\src\main\java\com\facebook\share\internal\LikeDialogFeature.java
+* facebook\src\main\java\com\facebook\share\internal\LikeStatusClient.java
+* facebook\src\main\java\com\facebook\share\internal\MessageDialogFeature.java
+* facebook\src\main\java\com\facebook\share\internal\NativeDialogParameters.java
+* facebook\src\main\java\com\facebook\share\internal\OpenGraphActionDialogFeature.java
+* facebook\src\main\java\com\facebook\share\internal\OpenGraphJSONUtility.java
+* facebook\src\main\java\com\facebook\share\internal\OpenGraphMessageDialogFeature.java
+* facebook\src\main\java\com\facebook\share\internal\ResultProcessor.java
+* facebook\src\main\java\com\facebook\share\internal\ShareConstants.java
+* facebook\src\main\java\com\facebook\share\internal\ShareContentValidation.java
+* facebook\src\main\java\com\facebook\share\internal\ShareDialogFeature.java
+* facebook\src\main\java\com\facebook\share\internal\ShareInternalUtility.java
+* facebook\src\main\java\com\facebook\share\internal\VideoUploader.java
+* facebook\src\main\java\com\facebook\share\internal\WebDialogParameters.java
+* facebook\src\main\java\com\facebook\share\model\
+* facebook\src\main\java\com\facebook\share\model\AppGroupCreationContent.java
+* facebook\src\main\java\com\facebook\share\model\AppInviteContent.java
+* facebook\src\main\java\com\facebook\share\model\GameRequestContent.java
+* facebook\src\main\java\com\facebook\share\model\ShareContent.java
+* facebook\src\main\java\com\facebook\share\model\ShareLinkContent.java
+* facebook\src\main\java\com\facebook\share\model\ShareMedia.java
+* facebook\src\main\java\com\facebook\share\model\ShareModel.java
+* facebook\src\main\java\com\facebook\share\model\ShareModelBuilder.java
+* facebook\src\main\java\com\facebook\share\model\ShareOpenGraphAction.java
+* facebook\src\main\java\com\facebook\share\model\ShareOpenGraphContent.java
+* facebook\src\main\java\com\facebook\share\model\ShareOpenGraphObject.java
+* facebook\src\main\java\com\facebook\share\model\ShareOpenGraphValueContainer.java
+* facebook\src\main\java\com\facebook\share\model\SharePhoto.java
+* facebook\src\main\java\com\facebook\share\model\SharePhotoContent.java
+* facebook\src\main\java\com\facebook\share\model\ShareVideo.java
+* facebook\src\main\java\com\facebook\share\model\ShareVideoContent.java
+* facebook\src\main\java\com\facebook\share\widget\
+* facebook\src\main\java\com\facebook\share\widget\AppInviteDialog.java
+* facebook\src\main\java\com\facebook\share\widget\CreateAppGroupDialog.java
+* facebook\src\main\java\com\facebook\share\widget\GameRequestDialog.java
+* facebook\src\main\java\com\facebook\share\widget\JoinAppGroupDialog.java
+* facebook\src\main\java\com\facebook\share\widget\LikeView.java
+* facebook\src\main\java\com\facebook\share\widget\MessageDialog.java
+* facebook\src\main\java\com\facebook\share\widget\SendButton.java
+* facebook\src\main\java\com\facebook\share\widget\ShareButton.java
+* facebook\src\main\java\com\facebook\share\widget\ShareButtonBase.java
+* facebook\src\main\java\com\facebook\share\widget\ShareDialog.java
+* facebook\src\main\res\
+* facebook\src\main\res\drawable-hdpi\
+* facebook\src\main\res\drawable-hdpi\com_facebook_button_icon.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_button_like_icon_selected.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_button_send_icon.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_close.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_black_background.9.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_black_bottomnub.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_black_topnub.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_black_xout.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_blue_background.9.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_blue_bottomnub.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_blue_topnub.png
+* facebook\src\main\res\drawable-hdpi\com_facebook_tooltip_blue_xout.png
+* facebook\src\main\res\drawable-hdpi\messenger_bubble_large_blue.png
+* facebook\src\main\res\drawable-hdpi\messenger_bubble_large_white.png
+* facebook\src\main\res\drawable-hdpi\messenger_bubble_small_blue.png
+* facebook\src\main\res\drawable-hdpi\messenger_bubble_small_white.png
+* facebook\src\main\res\drawable-hdpi\messenger_button_send_round_shadow.png
+* facebook\src\main\res\drawable-mdpi\
+* facebook\src\main\res\drawable-mdpi\com_facebook_button_icon.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_button_like_icon_selected.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_button_send_icon.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_close.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_profile_picture_blank_portrait.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_profile_picture_blank_square.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_black_background.9.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_black_bottomnub.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_black_topnub.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_black_xout.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_blue_background.9.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_blue_bottomnub.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_blue_topnub.png
+* facebook\src\main\res\drawable-mdpi\com_facebook_tooltip_blue_xout.png
+* facebook\src\main\res\drawable-mdpi\messenger_bubble_large_blue.png
+* facebook\src\main\res\drawable-mdpi\messenger_bubble_large_white.png
+* facebook\src\main\res\drawable-mdpi\messenger_bubble_small_blue.png
+* facebook\src\main\res\drawable-mdpi\messenger_bubble_small_white.png
+* facebook\src\main\res\drawable-mdpi\messenger_button_send_round_shadow.png
+* facebook\src\main\res\drawable-xhdpi\
+* facebook\src\main\res\drawable-xhdpi\com_facebook_button_icon.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_button_like_icon_selected.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_button_send_icon.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_close.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_black_background.9.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_black_bottomnub.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_black_topnub.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_black_xout.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_blue_background.9.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_blue_bottomnub.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_blue_topnub.png
+* facebook\src\main\res\drawable-xhdpi\com_facebook_tooltip_blue_xout.png
+* facebook\src\main\res\drawable-xhdpi\messenger_bubble_large_blue.png
+* facebook\src\main\res\drawable-xhdpi\messenger_bubble_large_white.png
+* facebook\src\main\res\drawable-xhdpi\messenger_bubble_small_blue.png
+* facebook\src\main\res\drawable-xhdpi\messenger_bubble_small_white.png
+* facebook\src\main\res\drawable-xhdpi\messenger_button_send_round_shadow.png
+* facebook\src\main\res\drawable-xxhdpi\
+* facebook\src\main\res\drawable-xxhdpi\com_facebook_button_icon.png
+* facebook\src\main\res\drawable-xxhdpi\com_facebook_button_like_icon_selected.png
+* facebook\src\main\res\drawable-xxhdpi\com_facebook_button_send_icon.png
+* facebook\src\main\res\drawable-xxhdpi\messenger_bubble_large_blue.png
+* facebook\src\main\res\drawable-xxhdpi\messenger_bubble_large_white.png
+* facebook\src\main\res\drawable-xxhdpi\messenger_bubble_small_blue.png
+* facebook\src\main\res\drawable-xxhdpi\messenger_bubble_small_white.png
+* facebook\src\main\res\drawable-xxhdpi\messenger_button_send_round_shadow.png
+* facebook\src\main\res\drawable\
+* facebook\src\main\res\drawable\com_facebook_button_background.xml
+* facebook\src\main\res\drawable\com_facebook_button_like_background.xml
+* facebook\src\main\res\drawable\com_facebook_button_login_silver_background.xml
+* facebook\src\main\res\drawable\com_facebook_button_send_background.xml
+* facebook\src\main\res\drawable\messenger_button_blue_bg_round.xml
+* facebook\src\main\res\drawable\messenger_button_blue_bg_selector.xml
+* facebook\src\main\res\drawable\messenger_button_white_bg_round.xml
+* facebook\src\main\res\drawable\messenger_button_white_bg_selector.xml
+* facebook\src\main\res\layout\
+* facebook\src\main\res\layout\com_facebook_activity_layout.xml
+* facebook\src\main\res\layout\com_facebook_login_fragment.xml
+* facebook\src\main\res\layout\com_facebook_tooltip_bubble.xml
+* facebook\src\main\res\layout\messenger_button_send_blue_large.xml
+* facebook\src\main\res\layout\messenger_button_send_blue_round.xml
+* facebook\src\main\res\layout\messenger_button_send_blue_small.xml
+* facebook\src\main\res\layout\messenger_button_send_white_large.xml
+* facebook\src\main\res\layout\messenger_button_send_white_round.xml
+* facebook\src\main\res\layout\messenger_button_send_white_small.xml
+* facebook\src\main\res\values-af\
+* facebook\src\main\res\values-af\messenger_button_strings.xml
+* facebook\src\main\res\values-af\strings.xml
+* facebook\src\main\res\values-ar\
+* facebook\src\main\res\values-ar\messenger_button_strings.xml
+* facebook\src\main\res\values-ar\strings.xml
+* facebook\src\main\res\values-bn\
+* facebook\src\main\res\values-bn\messenger_button_strings.xml
+* facebook\src\main\res\values-bn\strings.xml
+* facebook\src\main\res\values-cs\
+* facebook\src\main\res\values-cs\messenger_button_strings.xml
+* facebook\src\main\res\values-cs\strings.xml
+* facebook\src\main\res\values-da\
+* facebook\src\main\res\values-da\messenger_button_strings.xml
+* facebook\src\main\res\values-da\strings.xml
+* facebook\src\main\res\values-de\
+* facebook\src\main\res\values-de\messenger_button_strings.xml
+* facebook\src\main\res\values-de\strings.xml
+* facebook\src\main\res\values-el\
+* facebook\src\main\res\values-el\messenger_button_strings.xml
+* facebook\src\main\res\values-el\strings.xml
+* facebook\src\main\res\values-es-rES\
+* facebook\src\main\res\values-es-rES\messenger_button_strings.xml
+* facebook\src\main\res\values-es-rES\strings.xml
+* facebook\src\main\res\values-es\
+* facebook\src\main\res\values-es\messenger_button_strings.xml
+* facebook\src\main\res\values-es\strings.xml
+* facebook\src\main\res\values-fi\
+* facebook\src\main\res\values-fi\messenger_button_strings.xml
+* facebook\src\main\res\values-fi\strings.xml
+* facebook\src\main\res\values-fr\
+* facebook\src\main\res\values-fr\messenger_button_strings.xml
+* facebook\src\main\res\values-fr\strings.xml
+* facebook\src\main\res\values-gu\
+* facebook\src\main\res\values-gu\messenger_button_strings.xml
+* facebook\src\main\res\values-gu\strings.xml
+* facebook\src\main\res\values-hi\
+* facebook\src\main\res\values-hi\messenger_button_strings.xml
+* facebook\src\main\res\values-hi\strings.xml
+* facebook\src\main\res\values-hr\
+* facebook\src\main\res\values-hr\strings.xml
+* facebook\src\main\res\values-hu\
+* facebook\src\main\res\values-hu\strings.xml
+* facebook\src\main\res\values-id\
+* facebook\src\main\res\values-id\strings.xml
+* facebook\src\main\res\values-in\
+* facebook\src\main\res\values-in\messenger_button_strings.xml
+* facebook\src\main\res\values-it\
+* facebook\src\main\res\values-it\messenger_button_strings.xml
+* facebook\src\main\res\values-it\strings.xml
+* facebook\src\main\res\values-ja\
+* facebook\src\main\res\values-ja\messenger_button_strings.xml
+* facebook\src\main\res\values-ja\strings.xml
+* facebook\src\main\res\values-kn\
+* facebook\src\main\res\values-kn\messenger_button_strings.xml
+* facebook\src\main\res\values-kn\strings.xml
+* facebook\src\main\res\values-ko\
+* facebook\src\main\res\values-ko\messenger_button_strings.xml
+* facebook\src\main\res\values-ko\strings.xml
+* facebook\src\main\res\values-ml\
+* facebook\src\main\res\values-ml\messenger_button_strings.xml
+* facebook\src\main\res\values-ml\strings.xml
+* facebook\src\main\res\values-mr\
+* facebook\src\main\res\values-mr\messenger_button_strings.xml
+* facebook\src\main\res\values-mr\strings.xml
+* facebook\src\main\res\values-ms\
+* facebook\src\main\res\values-ms\messenger_button_strings.xml
+* facebook\src\main\res\values-ms\strings.xml
+* facebook\src\main\res\values-nb\
+* facebook\src\main\res\values-nb\messenger_button_strings.xml
+* facebook\src\main\res\values-nb\strings.xml
+* facebook\src\main\res\values-nl\
+* facebook\src\main\res\values-nl\messenger_button_strings.xml
+* facebook\src\main\res\values-nl\strings.xml
+* facebook\src\main\res\values-pa\
+* facebook\src\main\res\values-pa\messenger_button_strings.xml
+* facebook\src\main\res\values-pa\strings.xml
+* facebook\src\main\res\values-pl\
+* facebook\src\main\res\values-pl\messenger_button_strings.xml
+* facebook\src\main\res\values-pl\strings.xml
+* facebook\src\main\res\values-pt-rPT\
+* facebook\src\main\res\values-pt-rPT\messenger_button_strings.xml
+* facebook\src\main\res\values-pt-rPT\strings.xml
+* facebook\src\main\res\values-pt\
+* facebook\src\main\res\values-pt\messenger_button_strings.xml
+* facebook\src\main\res\values-pt\strings.xml
+* facebook\src\main\res\values-ru\
+* facebook\src\main\res\values-ru\messenger_button_strings.xml
+* facebook\src\main\res\values-ru\strings.xml
+* facebook\src\main\res\values-sk\
+* facebook\src\main\res\values-sk\strings.xml
+* facebook\src\main\res\values-sv\
+* facebook\src\main\res\values-sv\messenger_button_strings.xml
+* facebook\src\main\res\values-sv\strings.xml
+* facebook\src\main\res\values-ta\
+* facebook\src\main\res\values-ta\messenger_button_strings.xml
+* facebook\src\main\res\values-ta\strings.xml
+* facebook\src\main\res\values-te\
+* facebook\src\main\res\values-te\messenger_button_strings.xml
+* facebook\src\main\res\values-te\strings.xml
+* facebook\src\main\res\values-th\
+* facebook\src\main\res\values-th\messenger_button_strings.xml
+* facebook\src\main\res\values-th\strings.xml
+* facebook\src\main\res\values-tl\
+* facebook\src\main\res\values-tl\messenger_button_strings.xml
+* facebook\src\main\res\values-tl\strings.xml
+* facebook\src\main\res\values-tr\
+* facebook\src\main\res\values-tr\messenger_button_strings.xml
+* facebook\src\main\res\values-tr\strings.xml
+* facebook\src\main\res\values-vi\
+* facebook\src\main\res\values-vi\messenger_button_strings.xml
+* facebook\src\main\res\values-vi\strings.xml
+* facebook\src\main\res\values-zh-rCN\
+* facebook\src\main\res\values-zh-rCN\messenger_button_strings.xml
+* facebook\src\main\res\values-zh-rCN\strings.xml
+* facebook\src\main\res\values-zh-rHK\
+* facebook\src\main\res\values-zh-rHK\messenger_button_strings.xml
+* facebook\src\main\res\values-zh-rHK\strings.xml
+* facebook\src\main\res\values-zh-rTW\
+* facebook\src\main\res\values-zh-rTW\messenger_button_strings.xml
+* facebook\src\main\res\values-zh-rTW\strings.xml
+* facebook\src\main\res\values\
+* facebook\src\main\res\values\attrs.xml
+* facebook\src\main\res\values\messenger_button_strings.xml
+* facebook\src\main\res\values\messenger_button_styles.xml
+* facebook\src\main\res\values\strings.xml
+* facebook\src\main\res\values\styles.xml
+* facebook\src\main\resources\
+* facebook\src\main\resources\.DS_Store
+* facebook\src\main\resources\com\
+* facebook\src\main\resources\com\.DS_Store
+* goodLuckToday\
+* goodLuckToday\build.gradle
+* goodLuckToday\libs\
+* goodLuckToday\libs\AdBuddiz-3.0.18.jar
+* goodLuckToday\src\
+* goodLuckToday\src\main\
+* goodLuckToday\src\main\AndroidManifest.xml
+* goodLuckToday\src\main\java\
+* goodLuckToday\src\main\java\com\
+* goodLuckToday\src\main\java\com\example\
+* goodLuckToday\src\main\java\com\example\goodlucktoday\
+* goodLuckToday\src\main\java\com\example\goodlucktoday\BaseAdapter2.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\classement.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\classement2.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\jeux1.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\jeux2.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\jeux3.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\jeux4.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\jeux5.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\listItem.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\menu.java
+* goodLuckToday\src\main\java\com\example\goodlucktoday\param.java
+* goodLuckToday\src\main\res\
+* goodLuckToday\src\main\res\anim\
+* goodLuckToday\src\main\res\anim\anim_blink.xml
+* goodLuckToday\src\main\res\anim\anim_menu.xml
+* goodLuckToday\src\main\res\anim\anim_pile_face.xml
+* goodLuckToday\src\main\res\drawable-hdpi\
+* goodLuckToday\src\main\res\drawable-hdpi\anim_eclaire.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_nain.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue0.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue1.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue2.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue3.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue4.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue5.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue6.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue7.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue8.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_roue9.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_soleil.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_1.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_2.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_3.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_4.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_5.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_6.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_7.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_8.xml
+* goodLuckToday\src\main\res\drawable-hdpi\anim_trefle_9.xml
+* goodLuckToday\src\main\res\drawable-hdpi\carte_1.png
+* goodLuckToday\src\main\res\drawable-hdpi\carte_blanche.xml
+* goodLuckToday\src\main\res\drawable-hdpi\carte_blanche_2.png
+* goodLuckToday\src\main\res\drawable-hdpi\carte_blanche_3.png
+* goodLuckToday\src\main\res\drawable-hdpi\carte_blanche_4.png
+* goodLuckToday\src\main\res\drawable-hdpi\carte_noir.xml
+* goodLuckToday\src\main\res\drawable-hdpi\carte_noir_2.png
+* goodLuckToday\src\main\res\drawable-hdpi\carte_noir_3.png
+* goodLuckToday\src\main\res\drawable-hdpi\carte_noir_4.png
+* goodLuckToday\src\main\res\drawable-hdpi\decouv.png
+* goodLuckToday\src\main\res\drawable-hdpi\eclaire2.png
+* goodLuckToday\src\main\res\drawable-hdpi\eclaire3.png
+* goodLuckToday\src\main\res\drawable-hdpi\eclaire4.png
+* goodLuckToday\src\main\res\drawable-hdpi\eclaire6.png
+* goodLuckToday\src\main\res\drawable-hdpi\eclaire7.png
+* goodLuckToday\src\main\res\drawable-hdpi\eclaire8.png
+* goodLuckToday\src\main\res\drawable-hdpi\envoyer.png
+* goodLuckToday\src\main\res\drawable-hdpi\exit.png
+* goodLuckToday\src\main\res\drawable-hdpi\exp.png
+* goodLuckToday\src\main\res\drawable-hdpi\face.png
+* goodLuckToday\src\main\res\drawable-hdpi\face_bu.png
+* goodLuckToday\src\main\res\drawable-hdpi\feuille.png
+* goodLuckToday\src\main\res\drawable-hdpi\feuille1.png
+* goodLuckToday\src\main\res\drawable-hdpi\feuille2.png
+* goodLuckToday\src\main\res\drawable-hdpi\feuille3.png
+* goodLuckToday\src\main\res\drawable-hdpi\feuille4.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond1.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond2.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond3.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond4.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond4init.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond5.png
+* goodLuckToday\src\main\res\drawable-hdpi\fond_prin.jpeg
+* goodLuckToday\src\main\res\drawable-hdpi\goodicon.png
+* goodLuckToday\src\main\res\drawable-hdpi\ic_launcher.png
+* goodLuckToday\src\main\res\drawable-hdpi\invite.png
+* goodLuckToday\src\main\res\drawable-hdpi\leaderboard.png
+* goodLuckToday\src\main\res\drawable-hdpi\luck.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain0.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain1.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain2.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain3.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain4.png
+* goodLuckToday\src\main\res\drawable-hdpi\nain5.png
+* goodLuckToday\src\main\res\drawable-hdpi\nombre.png
+* goodLuckToday\src\main\res\drawable-hdpi\oiseaux.png
+* goodLuckToday\src\main\res\drawable-hdpi\parametre.png
+* goodLuckToday\src\main\res\drawable-hdpi\pile.png
+* goodLuckToday\src\main\res\drawable-hdpi\pile_bu.png
+* goodLuckToday\src\main\res\drawable-hdpi\pile_face.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_0.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_1.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_2.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_3.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_4.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_5.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_6.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_7.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_8.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_9.png
+* goodLuckToday\src\main\res\drawable-hdpi\rond_flou.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue0.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue1.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue2.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue3.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue4.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue5.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue6.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue7.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue8.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue9.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne0.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne1.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne2.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne3.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne4.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne5.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne6.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne7.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne8.png
+* goodLuckToday\src\main\res\drawable-hdpi\roue_tourne9.png
+* goodLuckToday\src\main\res\drawable-hdpi\sol1.png
+* goodLuckToday\src\main\res\drawable-hdpi\sol2.png
+* goodLuckToday\src\main\res\drawable-hdpi\sol3.png
+* goodLuckToday\src\main\res\drawable-hdpi\sol4.png
+* goodLuckToday\src\main\res\drawable-hdpi\soleil.png
+* goodLuckToday\src\main\res\drawable-hdpi\suiv.png
+* goodLuckToday\src\main\res\drawable-hdpi\suiv1.png
+* goodLuckToday\src\main\res\drawable-hdpi\titre.png
+* goodLuckToday\src\main\res\drawable-hdpi\trefle1.png
+* goodLuckToday\src\main\res\drawable-mdpi\
+* goodLuckToday\src\main\res\drawable-mdpi\ic_launcher.png
+* goodLuckToday\src\main\res\drawable-xhdpi\
+* goodLuckToday\src\main\res\drawable-xhdpi\ic_launcher.png
+* goodLuckToday\src\main\res\drawable-xxhdpi\
+* goodLuckToday\src\main\res\drawable-xxhdpi\ic_launcher.png
+* goodLuckToday\src\main\res\layout\
+* goodLuckToday\src\main\res\layout\classement.xml
+* goodLuckToday\src\main\res\layout\classement2.xml
+* goodLuckToday\src\main\res\layout\jeux1.xml
+* goodLuckToday\src\main\res\layout\jeux2.xml
+* goodLuckToday\src\main\res\layout\jeux3.xml
+* goodLuckToday\src\main\res\layout\jeux4.xml
+* goodLuckToday\src\main\res\layout\jeux5.xml
+* goodLuckToday\src\main\res\layout\listitem.xml
+* goodLuckToday\src\main\res\layout\menu.xml
+* goodLuckToday\src\main\res\layout\param.xml
+* goodLuckToday\src\main\res\menu\
+* goodLuckToday\src\main\res\menu\main.xml
+* goodLuckToday\src\main\res\values-fr\
+* goodLuckToday\src\main\res\values-fr\string_fr.xml
+* goodLuckToday\src\main\res\values-v11\
+* goodLuckToday\src\main\res\values-v11\styles.xml
+* goodLuckToday\src\main\res\values-v14\
+* goodLuckToday\src\main\res\values-v14\styles.xml
+* goodLuckToday\src\main\res\values-w820dp\
+* goodLuckToday\src\main\res\values-w820dp\dimens.xml
+* goodLuckToday\src\main\res\values\
+* goodLuckToday\src\main\res\values\dimens.xml
+* goodLuckToday\src\main\res\values\strings.xml
+* goodLuckToday\src\main\res\values\styles.xml
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+From facebook:
+* build.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:20.0.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In facebook:
+* AndroidManifest.xml => facebook\src\main\AndroidManifest.xml
+* assets\ => facebook\src\main\assets
+* res\ => facebook\src\main\res\
+* src\ => facebook\src\main\java\
+* src\.DS_Store => facebook\src\main\resources\.DS_Store
+* src\com\.DS_Store => facebook\src\main\resources\com\.DS_Store
+In GoodLuckToday:
+* AndroidManifest.xml => goodLuckToday\src\main\AndroidManifest.xml
+* assets\ => goodLuckToday\src\main\assets
+* libs\AdBuddiz-3.0.18.jar => goodLuckToday\libs\AdBuddiz-3.0.18.jar
+* res\ => goodLuckToday\src\main\res\
+* src\ => goodLuckToday\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

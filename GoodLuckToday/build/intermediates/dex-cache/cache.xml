@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\classes-3a963c8aa2ab3e31b95f15bf4dbb1bcb63ef60a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-2ecba6b391f1833dfe35fd941814b5feb0e9dfd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\.gradle\caches\modules-2\files-2.1\com.purplebrain.adbuddiz.sdk\AdBuddiz-Java\3.1.5\9c106175e126ca2d92a49855e86c850b5a133cb9\AdBuddiz-Java-3.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9c106175e126ca2d92a49855e86c850b5a133cb9">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\AdBuddiz-Java-3.1.5-75538acda303e6bee4f96a4113564ca64a8fcdbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-fa3283c1bdf9663b4e63702533d24934c245a91a.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\libs\AdBuddiz-3.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00edc8d569b4ff688530aeb98dae9f2539e8a690">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\AdBuddiz-3.1.5-398dc7b6d98f7765f9ff1aba6d1a2efb610b47f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-6ca1b8a8e253cfe5b012a5a98f7bc542accc2243.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\classes-2045b93f217f799e42701e6e1c599b5dc179bc6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\stephane\Desktop\GoodLuckToday\goodLuckToday\build\intermediates\pre-dexed\debug\classes-9757bed6541b5abe9642cc00906c9086b8417f51.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,105 @@
+-injars 'C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Stephane\AppData\Local\Android\sdk\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Stephane\Desktop\GLT\GoodLuckToday\goodLuckToday\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.simul.goodlucktoday.menu {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.jeux1 {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.jeux2 {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.jeux3 {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.jeux4 {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.jeux5 {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.classement {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.classement2 {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.param {
+    <init>();
+}
+
+-keep class com.simul.goodlucktoday.menu2 {
+    <init>();
+}
+
+-keep class com.facebook.FacebookActivity {
+    <init>();
+}
+
+-keep class com.purplebrain.adbuddiz.sdk.AdBuddizActivity {
+    <init>();
+}
+
+-keep class com.facebook.ads.InterstitialAdActivity {
+    <init>();
+}
+
+-keep class com.facebook.ads.AudienceNetworkActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

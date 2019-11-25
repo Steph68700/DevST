@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fond2" >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="42dp"
+        android:text="Carte Noir"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView3"
+        android:text="Retourner les cartes, mais attentions à la carte noir !" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:background="@drawable/titre"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/chance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Votre chance à ce jeu : " />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_marginBottom="20dp"
+        android:text="Jeux 2 :"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/a6"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:background="@drawable/carte_1"
+        android:layout_below="@+id/a1"
+        android:layout_toRightOf="@+id/textView1"
+        android:layout_toEndOf="@+id/textView1" />
+
+    <Button
+        android:id="@+id/a5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:background="@drawable/carte_1"
+        android:layout_alignTop="@+id/a6"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/a8"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:background="@drawable/carte_1"
+        android:layout_alignTop="@+id/a9"
+        android:layout_alignLeft="@+id/a5"
+        android:layout_alignStart="@+id/a5" />
+
+    <Button
+        android:id="@+id/a9"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:background="@drawable/carte_1"
+        android:layout_below="@+id/a4"
+        android:layout_alignLeft="@+id/a6"
+        android:layout_alignStart="@+id/a6" />
+
+    <Button
+        android:id="@+id/a7"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="18dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:background="@drawable/carte_1" />
+
+    <Button
+        android:id="@+id/a4"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:layout_above="@+id/a7"
+        android:layout_marginBottom="20dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:background="@drawable/carte_1" />
+
+    <Button
+        android:id="@+id/a2"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:background="@drawable/carte_1"
+        android:layout_alignTop="@+id/a1"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/a1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:layout_above="@+id/a4"
+        android:layout_marginBottom="33dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:background="@drawable/carte_1"
+        android:height="10dp"
+        android:minHeight="10dp"
+        android:minWidth="20dip" />
+
+    <Button
+        android:id="@+id/a3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:background="@drawable/carte_1"
+        android:layout_alignTop="@+id/a1"
+        android:layout_alignLeft="@+id/a6"
+        android:layout_alignStart="@+id/a6" />
+
+    <TextView
+        android:id="@+id/suiv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/suiv1"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="250dp"
+        android:layout_above="@+id/textView5"
+        android:layout_alignRight="@+id/trefle"
+        android:layout_alignEnd="@+id/trefle"
+        android:layout_alignTop="@+id/textView7" />
+
+    <ImageView
+        android:id="@+id/trefle"
+        android:layout_width="75dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/chance"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

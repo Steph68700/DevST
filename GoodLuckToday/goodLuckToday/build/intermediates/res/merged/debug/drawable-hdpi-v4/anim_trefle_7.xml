@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+     <item android:drawable="@drawable/rond_7" android:duration="200" />
+    <item android:drawable="@drawable/rond_flou" android:duration="200" />
+    <item android:drawable="@drawable/exp" android:duration="500" />
+</animation-list>

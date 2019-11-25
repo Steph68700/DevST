@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="temps"> Vous pouvez faire le test 1 fois par jours a partir de minuit</string>
+     <string name="tap"> Tap sur l ecran pour tester et comparer votre chance !</string>
+    <string name="connect">Connectez-vous a Facebook  pour comparer votre chance avec vos amis!</string>
+     
+
+   
+</resources>

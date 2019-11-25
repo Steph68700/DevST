@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\envoyer.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\envoyer.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain0.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain0.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne7.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne7.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fond1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\fond1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_7.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eclaire8.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\eclaire8.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\oiseaux.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\oiseaux.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sol1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\sol1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue5.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue5.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\suiv.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\suiv.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne5.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne5.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne8.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne8.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\face.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\face.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eclaire6.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\eclaire6.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_5.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_8.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue7.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue7.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sol3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\sol3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\goodicon.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\goodicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sol4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\sol4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pile.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\pile.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feuille1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\feuille1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\invite.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\invite.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fond5.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\fond5.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fond2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\fond2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_button_icon.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_noir_4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_noir_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_flou.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_flou.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pile_bu.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\pile_bu.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\decouv.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\decouv.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pile_face.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\pile_face.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_blanche_3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_blanche_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feuille3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\feuille3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_blanche_4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_blanche_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_close.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exp.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\exp.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eclaire2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\eclaire2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\soleil.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\soleil.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\trefle1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\trefle1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\luck.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\luck.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feuille4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\feuille4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue0.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue0.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messenger_bubble_large_white.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\parametre.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\parametre.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue8.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue8.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eclaire3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\eclaire3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain5.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain5.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nain3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nain3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fond4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\fond4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\titre.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\titre.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_noir_2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_noir_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messenger_bubble_large_blue.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fond3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\fond3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messenger_button_send_round_shadow.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\suiv1.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\suiv1.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_blanche_2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_blanche_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_button_send_icon.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carte_noir_3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\carte_noir_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_0.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messenger_bubble_small_white.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue6.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue6.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fond4init.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\fond4init.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rond_6.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\rond_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feuille.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\feuille.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eclaire7.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\eclaire7.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eclaire4.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\eclaire4.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne0.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne0.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sol2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\sol2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne6.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne6.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne3.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne3.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leaderboard.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\leaderboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messenger_bubble_small_blue.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nombre.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\nombre.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\face_bu.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\face_bu.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feuille2.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\feuille2.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\roue_tourne9.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\src\\main\\res\\drawable-hdpi\\roue_tourne9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "C:\\Users\\Stephane\\Desktop\\GLT\\GoodLuckToday\\goodLuckToday\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_xout.png"
+    }
+]

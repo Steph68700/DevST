@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/fond_prin">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="No limit"
+        android:id="@+id/textView"
+        android:layout_marginTop="71dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp"
+        android:typeface="serif"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pile ou Face"
+        android:id="@+id/pof"
+        android:layout_marginTop="78dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/roul"
+        android:layout_alignStart="@+id/roul"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Carte noir"
+        android:id="@+id/carte"
+        android:layout_below="@+id/pof"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Le bon Nombre"
+        android:id="@+id/bon"
+        android:textStyle="bold|italic"
+        android:layout_below="@+id/carte"
+        android:layout_alignRight="@+id/chance"
+        android:layout_alignEnd="@+id/chance" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1 chance sur 2"
+        android:id="@+id/chance"
+        android:layout_below="@+id/bon"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="La Roulette"
+        android:id="@+id/roul"
+        android:layout_below="@+id/chance"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retour"
+        android:id="@+id/re"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>
