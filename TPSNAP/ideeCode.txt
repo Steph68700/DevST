@@ -1,0 +1,22 @@
+############FILTRE SEPIEA###########
+
+imageM = Image.new('RGB',(L,H))
+    for y in range (0,H,1):
+        for x in range (0,L,1):
+            p = image1.getpixel((x,y))
+            R = (25756 * p[0] + 50397 * p[1] + 12386 * p[2]) >> 16
+            G = (22872 * p[0] + 44958 * p[1] + 11010 * p[2]) >> 16
+            B = (17826 * p[0] + 34996 * p[1] + 8585 * p[2]) >> 16
+ 
+            if R < 0: R = 0
+            if R > 255: R = 255
+ 
+            if G < 0: G = 0
+            if G > 255: G = 255
+ 
+            if B < 0: B = 0
+            if B > 255: B = 255
+ 
+            imageM.putpixel ((x,y) ,(R,G,B))
+
+#####################################
