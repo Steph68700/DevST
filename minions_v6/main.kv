@@ -1,0 +1,357 @@
+# Nom utilisé pour pour interagir avec la classe RootWidget du fichier .py
+
+<RootWidget>:
+    bar_pos_x: 'top'
+    bar_pos_y: 'left'
+	dropdown: dropdown.__self__
+	
+	# Layout ou les différents Widgets sont placés
+	
+	FloatLayout:   
+		
+		#******************************************************
+		#**************Image pour les minions******************
+		#******************************************************
+    	Image:
+    		id: ImageOrigin					# Identifiant
+			source : './ImgAnnexe/vide.png'	# Source du fichier Image
+            pos_hint: {'x': 0.1, 'y': 0.43}	# Position de l'image
+            size_hint: 0.16, 0.16			# Taille de l'image
+            color: 1,1,1,1					# couleur de l'image (normal)
+        
+		Image:
+            id: ImageRed					# Identifiant
+			source : './ImgAnnexe/vide.png'	# Source du fichier Image
+            pos_hint: {'x': 0.42, 'y': 0.79}# Position de l'image
+            size_hint: 0.16, 0.16			# Taille de l'image
+            color: str(SlideRed.value/255),0,0,1 # couleur de l'image (rouge)
+		
+        Image:
+            id: ImageGreen					# Identifiant
+			source : './ImgAnnexe/vide.png'	# Source du fichier Image
+            pos_hint: {'x': 0.42, 'y': 0.43}# Position de l'image
+            size_hint: 0.16, 0.16			# Taille de l'image
+            color: 0,str(SlideGreen.value/255),0,1 # couleur de l'image (vert)
+            
+         
+        Image:
+            id: ImageBlue					# Identifiant
+			source : './ImgAnnexe/vide.png'	# Source du fichier Image
+            pos_hint: {'x': 0.42, 'y': 0.07}# Position de l'image
+            size_hint: 0.16, 0.16			# Taille de l'image
+            color: 0,0,str(SlideBlue.value/255),1 # couleur de l'image (bleu)
+            
+			
+        Image:
+        	id: ImageFi						# Identifiant
+			source : './ImgAnnexe/vide.png'	# Source du fichier Image
+            pos_hint: {'x': 0.75, 'y': 0.43}# Position de l'image
+            size_hint: 0.16, 0.16			# Taille de l'image
+			color: str(SlideRed.value/255),str(SlideGreen.value/255),str(SlideBlue.value/255),1 # couleur de l'image (final)
+
+			
+			
+		
+		#**************************************************************
+		#**************Image pour cercle*******************************
+		#**************************************************************
+		Image:
+        	id: cercleRed					# Identifiant
+			source: './Cercle/cercle.png'	# Source du fichier Image
+            pos_hint: {'x': 0.02, 'y': 0.2}	# Position de l'image
+            size_hint: 0.3, 0.3				# Taille de l'image
+			color: str(SlideRed.value/255),0,0,1 # couleur de l'image (cercle rouge)
+		Image:
+        	id: cercleGreen					# Identifiant
+			source: './Cercle/cercle.png'	# Source du fichier Image
+            pos_hint: {'x': 0.27, 'y': 0.2}	# Position de l'image
+            size_hint: 0.3, 0.3				# Taille de l'image
+			color: 0,str(SlideGreen.value/255),0,1 # couleur de l'image (cercle vert)
+		Image:
+        	id: cercleBlue					# Identifiant
+			source: './Cercle/cercle.png'	# Source du fichier Image
+            pos_hint: {'x': 0.15, 'y': 0.5}	# Position de l'image
+            size_hint: 0.3, 0.3				# Taille de l'image
+			color: 0,0,str(SlideBlue.value/255),1 # couleur de l'image (cercle bleu)
+		
+		Image:
+        	id: cercleRGB						# Identifiant
+			source: './Cercle/rgb.png'	# Source du fichier Image
+            pos_hint: {'x': 0.55, 'y': 0.28}	# Position de l'image
+            size_hint: 0.5, 0.5					# Taille de l'image
+			keep_ratio: True					# Garde la dimension
+			allow_stretch: True					# Permet de l'agrandir
+			color: str(SlideRed.value/255),str(SlideGreen.value/255),str(SlideBlue.value/255),1 # couleur de l'image (cercle RGB)
+		
+		
+		
+		#****************************************************************************
+		#**********************Image Interface***************************************
+		#****************************************************************************
+		Image:
+        	id: fleche1							#Identifiant
+			source: './ImgAnnexe/vide.png'		#Source de l'image interface
+            pos_hint: {'x': 0.28, 'y': 0.45}	# Position de l'image
+            size_hint: 0.1, 0.1					# taille de l'image
+			
+		Image:
+        	id: fleche2							#Identifiant
+			source: './ImgAnnexe/vide.png'		#Source de l'image interface
+            pos_hint: {'x': 0.28, 'y': 0.65}	# Position de l'image
+            size_hint: 0.1, 0.1					# taille de l'image
+			canvas.before:						
+				PushMatrix
+				Rotate:
+					angle:30					# angle de 30°
+					origin:self.center			# A partir du centre de l'image
+			canvas.after:
+				PopMatrix
+				
+		Image:
+        	id: fleche3							#Identifiant
+			source: './ImgAnnexe/vide.png'		#Source de l'image interface
+            pos_hint: {'x': 0.28, 'y': 0.25}	# Position de l'image
+            size_hint: 0.1, 0.1					# taille de l'image
+			canvas.before:						
+				PushMatrix
+				Rotate:
+					angle:-30					# angle de -30°
+					origin:self.center			# A partir du centre de l'image
+			canvas.after:
+				PopMatrix
+
+		
+		Image:
+        	id: fleche4							#Identifiant
+			source: './ImgAnnexe/vide.png'		#Source de l'image interface
+            pos_hint: {'x': 0.63, 'y': 0.45}	# Position de l'image
+            size_hint: 0.1, 0.1					# taille de l'image
+			
+		Image:
+        	id: fleche5							#Identifiant
+			source: './ImgAnnexe/vide'			#Source de l'image interface
+            pos_hint: {'x': 0.63, 'y': 0.65}	# Position de l'image
+            size_hint: 0.1, 0.1					# taille de l'image
+			canvas.before:						
+				PushMatrix
+				Rotate:
+					angle:-30					# angle de -30°
+					origin:self.center			# A partir du centre de l'image
+			canvas.after:
+				PopMatrix
+				
+		Image:									
+        	id: fleche6							#Identifiant
+			source: './ImgAnnexe/vide.png'		#Source de l'image interface
+            pos_hint: {'x': 0.63, 'y': 0.25}	# Position de l'image
+            size_hint: 0.1, 0.1					# taille de l'image
+			canvas.before:						
+				PushMatrix
+				Rotate:
+					angle:30					# angle de 30°
+					origin:self.center			# A partir du centre de l'image
+			canvas.after:
+				PopMatrix
+			
+        
+
+
+		#************************************************************
+		#*************** SLIDER *************************************
+		#************************************************************
+        Slider:
+            id: SlideRed						#Identifiant
+            value: 255							#Valeur au demarrage 
+            max: 255							#Valeur MAX
+			step: 1								#Pas
+            pos_hint: {'x': 0.08, 'y': 0.2}		#Position
+            size_hint: 0.2, 0.1					#Taille
+            source: './Img/minions.png'			#source
+			
+        Slider:
+            id: SlideGreen						#Identifiant
+            value: 255							#Valeur au demarrage 
+            max: 255							#Valeur MAX
+			step: 1								#Pas
+            pos_hint: {'x': 0.32, 'y': 0.2}		#Position
+            size_hint: 0.2, 0.1					#Taille
+            source: './Img/minions.png'			#source
+			
+        Slider:
+            id: SlideBlue						#Identifiant
+			value: 255							#Valeur au demarrage 
+            max: 255							#Valeur MAX
+			step: 1								#Pas
+            pos_hint: {'x': 0.2, 'y': 0.5}		#Position
+            size_hint: 0.2, 0.1					#Taille
+            source: './Img/minions.png'			#source
+			
+			
+			
+       
+		#*************************************************************
+		#******************** TEXT************************************
+		#*************************************************************
+		Label:	
+        	id: LabelOrigine					#Identifiant
+            pos_hint: {'x': 0, 'y': 0.12} 		#Position
+            size_hint: 0.35,1.0					#Taille
+			font_size: 0.04*root.height
+            color: 0,0,0,1
+			text: ''
+			
+		Label:
+        	id: LabelRed						#Identifiant
+        	text: 'Composante rouge'			#text
+        	size_hint: 0.0,0.0 					#Taille
+			font_size: 0.04*root.height			#Ajuste le redimensionnement du text par rapport à la fenetre
+            pos_hint: {'x': 0.165, 'y': 0.48} 	#Position
+            color: 1,0,0,1						# Couleur
+			
+		Label:
+        	id: LabelGreen						#Identifiant
+        	text:'Composante verte'				#text
+			size_hint: 0.0,0.0 					#Taille
+			font_size: 0.04*root.height			#Ajuste le redimensionnement du text par rapport à la fenetre
+            pos_hint: {'x': 0.42, 'y': 0.48} 	#Position
+            color: 0,1,0,1						# Couleur
+			
+		Label:
+        	id: LabelBlue						#Identifiant
+        	text:'Composante bleue'				#text
+        	size_hint: 0.0,0.0 					#Taille
+			font_size: 0.04*root.height			#Ajuste le redimensionnement du text par rapport à la fenetre
+            pos_hint: {'x': 0.3, 'y': 0.78}		#Position
+            color: 0,0,1,1						# Couleur
+			
+		Label:
+        	id: LabelFi							#Identifiant
+			size_hint: 1.05,1.0					#Taille
+			font_size: 0.04*root.height			#Ajuste le redimensionnement du text par rapport à la fenetre
+            pos_hint: {'x': 0.32, 'y': 0.12}	#Position 
+            color: 0,0,0,1						# Couleur
+			
+		Label:
+        	id: textCercle						#Identifiant
+            size_hint: 0.0,0.0 					#Taille
+			font_size: 0.025*root.height		#Ajuste le redimensionnement du text par rapport à la fenetre
+            pos_hint: {'x': 0.33, 'y': 0.15} 	#Position
+            color: 0,0,0,1						# Couleur
+                  	  
+		
+
+		#*************************************************************
+		#**************** Bouton permuttation des composants *********
+		#*************************************************************
+		Button:
+            id: change1							#Identifiant Bouton						
+			pos_hint: {'x' : 0.465, 'y' : 0.65}	#Position
+            size_hint: 0, 0						#Taille
+			background_normal: './ImgAnnexe/vide.png'	# rend le fond du bouton vide
+			on_release: root.change1()			# Si appuis: fonction change1() du fichier .py
+		Image:
+			id:ImageChange1						#Identifiant Image					
+			source: './ImgAnnexe/vide.png'				#source de l'image
+			pos_hint: {'x' : 0.465, 'y' : 0.65} #Position  
+			size_hint: 0.07, 0.07				#Taille
+
+			
+		Button:
+            id: change2							#Identifiant Bouton	
+			pos_hint: {'x' : 0.465, 'y' : 0.28}	#Position
+            size_hint: 0, 0						#Taille
+			background_normal: './ImgAnnexe/vide.png'	# rend le fond du bouton vide
+			on_release: root.change2()			# Si appuis: fonction change2() du fichier .py
+		Image:
+			id:ImageChange2						#Identifiant Image	
+			source: './ImgAnnexe/vide.png'		#source de l'image
+			pos_hint: {'x' : 0.465, 'y' : 0.28} #Position  
+			size_hint: 0.07, 0.07 				#Taille
+			
+	
+	
+	#******************************************************************
+	#******************* Bouton Dropdown ***************************
+	#******************************************************************
+	Button:
+		id: btn								#Identifiant Bouton parametre
+		pos_hint: {'x' : 0.01, 'y' : 0.95}	#Position
+		on_release: dropdown.open(self)		#Si appuis: ouvrir DropBox
+		size_hint: 0.11, 0.04				# Taille
+		background_normal: './ImgAnnexe/vide.png'	# rend le fond du bouton vide
+	Image:
+        source: './ImgAnnexe/parametre.png'	# Source de l'image parametre
+        pos_hint: {'x' : 0.01, 'y' : 0.95}  # Position  
+        size_hint: 0.04, 0.04				#Taille
+		
+	Widget:
+        on_parent: dropdown.dismiss()		# Widget DropDown au depart fermé
+	
+	DropDown:	
+		id: dropdown							#Identifiant du DropDown				
+		
+		
+		
+		#***********************************************************
+		#********************** Bouton du DropDown *****************
+		#***********************************************************
+        Button:
+        	id: minions							# Identifiant						
+            text: 'Minions'						# Text
+			pos_hint: {'x' : 0.01, 'y' : 0.95}	# Position
+            size_hint_y: None						# Taille
+			height:60
+			
+			on_release: dropdown.select('')		# Si appui: ferme le dropdown
+			on_release: root.minion()			# Si appuis: focntion minion() 
+			on_release: root.PosInterface()		# Si appuis: focntion PosInterface() 
+			
+	
+        Button:
+        	id: shrek							# Identifiant	
+            text: 'Shrek'						# Text
+			pos_hint: {'x' : 0.01, 'y' : 0.95}	# Position
+            size_hint_y: None
+			height:60
+			
+			on_release: dropdown.select('')		# Si appui: ferme le dropdown
+			on_release: root.shrek()			# Si appuis: focntion shrek() 
+			on_release: root.PosInterface()		# Si appuis: focntion PosInterface() 
+
+		Button:
+        	id: stroumf2						# Identifiant	
+            text: 'Stroumpfette'				# Text
+			pos_hint: {'x' : 0.01, 'y' : 0.95}	# Position
+            size_hint_y: None
+			height:60
+			
+			on_release: dropdown.select('')		# Si appui: ferme le dropdown
+			on_release: root.stroumpfette()		# Si appuis: focntion stroumpf2() 
+			on_release: root.PosInterface()		# Si appuis: focntion PosInterface() 
+			
+		Button:
+        	id: capitaine						# Identifiant	
+            text: 'Capitaine'					# Text
+			pos_hint: {'x' : 0.01, 'y' : 0.95}	# Position
+            size_hint_y: None
+			height:60
+			
+			on_release: dropdown.select('')		# Si appui: ferme le dropdown
+			on_release: root.capitaine()		# Si appuis: focntion capitaine() 
+			on_release: root.PosInterface()		# Si appuis: focntion PosInterface() 
+			
+			
+		Button:
+        	id: Cercle							# Identifiant	
+            text: 'Cercle'						# Text
+			pos_hint: {'x' : 0.01, 'y' : 0.95}	# Position
+            size_hint_y: None
+			height:60
+			
+			on_release: dropdown.select('')		# Si appui: ferme le dropdown
+			on_release: root.cercle()			# Si appui: # Si appuis: focntion cercle() 
+
+			
+			
+
+                     
